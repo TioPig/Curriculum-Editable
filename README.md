@@ -35,11 +35,11 @@ Una aplicación web interactiva para crear y gestionar currículums vitae profes
 
 ## Estructura del Proyecto
 
-curriculum/
-├── cr_editable.html     # Editor principal
-├── cv_functions.js      # Funciones JavaScript
-├── cv_styles.css        # Estilos CSS
-└── README.md
+- curriculum/
+- ├── cr_editable.html     # Editor principal
+- ├── cv_functions.js      # Funciones JavaScript
+- ├── cv_styles.css        # Estilos CSS
+- └── README.md
 
 ## Contribuir
 
